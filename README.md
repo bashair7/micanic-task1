@@ -11,4 +11,4 @@ tan=64/64.77=0.9*10=9
 angle=9
 
 
-![mac](https://user-images.githubusercontent.com/81494917/183267487-0b724959-c3bd-4dbc-bb3a-ce375a446be9.jpeg)
+![2](https://user-images.githubusercontent.com/81494917/183267719-e24a78c3-d881-484d-8716-61226a9e19bc.jpg)
